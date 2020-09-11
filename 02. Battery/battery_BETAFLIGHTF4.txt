@@ -1,0 +1,11 @@
+set current_meter = ADC
+set battery_meter = ADC
+
+set vbat_scale = 112
+set vbat_divider = 10
+set vbat_multiplier = 1
+
+set ibata_scale = 108
+set ibata_offset = 0
+
+save

@@ -1,0 +1,35 @@
+# master
+set dyn_notch_width_percent = 0
+set dyn_notch_q = 250
+set dyn_notch_min_hz = 150
+set dyn_notch_max_hz = 600
+
+set dyn_lpf_gyro_min_hz = 300
+set dyn_lpf_gyro_max_hz = 750
+
+set gyro_lowpass_type = PT1
+set gyro_lowpass_hz = 200
+
+set gyro_lowpass2_type = PT1
+set gyro_lowpass2_hz = 375
+
+set gyro_notch1_hz = 0
+set gyro_notch1_cutoff = 0
+
+set gyro_notch2_hz = 0
+set gyro_notch2_cutoff = 0
+
+# profile 0
+set dyn_lpf_dterm_min_hz = 105
+set dyn_lpf_dterm_max_hz = 255
+
+set dterm_lowpass_type = PT1
+set dterm_lowpass_hz = 150
+
+set dterm_lowpass2_type = PT1
+set dterm_lowpass2_hz = 225
+
+set dterm_notch_hz = 0
+set dterm_notch_cutoff = 0
+
+save

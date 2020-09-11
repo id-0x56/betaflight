@@ -1,0 +1,5 @@
+set blackbox_device = SPIFLASH
+set blackbox_p_ratio = 32
+set debug_mode = GYRO_SCALED
+
+save

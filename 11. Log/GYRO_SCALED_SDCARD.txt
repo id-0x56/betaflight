@@ -1,0 +1,5 @@
+set blackbox_device = SDCARD
+set blackbox_p_ratio = 64
+set debug_mode = GYRO_SCALED
+
+save

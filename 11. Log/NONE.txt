@@ -1,0 +1,5 @@
+set blackbox_device = NONE
+set blackbox_p_ratio = 32
+set debug_mode = NONE
+
+save

@@ -1,0 +1,6 @@
+profile 0
+
+set auto_profile_cell_count = 0
+set motor_output_limit = 70
+
+save

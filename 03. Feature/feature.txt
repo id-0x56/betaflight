@@ -1,0 +1,33 @@
+# feature
+feature -RX_PPM
+feature -INFLIGHT_ACC_CAL
+feature -RX_SERIAL
+feature -MOTOR_STOP
+feature -SERVO_TILT
+feature -SOFTSERIAL
+feature -GPS
+feature -RANGEFINDER
+feature -TELEMETRY
+feature -3D
+feature -RX_PARALLEL_PWM
+feature -RX_MSP
+feature -RSSI_ADC
+feature -LED_STRIP
+feature -DISPLAY
+feature -OSD
+feature -CHANNEL_FORWARDING
+feature -TRANSPONDER
+feature -AIRMODE
+feature -RX_SPI
+feature -ESC_SENSOR
+feature -ANTI_GRAVITY
+feature -DYNAMIC_FILTER
+
+feature RX_SERIAL
+feature TELEMETRY
+feature OSD
+feature AIRMODE
+feature ANTI_GRAVITY
+feature DYNAMIC_FILTER
+
+save

@@ -1,0 +1,5 @@
+set f_roll = 100
+set f_pitch = 100
+set f_yaw = 100
+
+save

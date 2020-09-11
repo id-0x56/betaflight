@@ -1,0 +1,9 @@
+set launch_control_gain = 40
+set launch_control_mode = NORMAL
+
+set launch_trigger_allow_reset = ON
+set launch_trigger_throttle_percent = 20
+
+set launch_angle_limit = 60
+
+save

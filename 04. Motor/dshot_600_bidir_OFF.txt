@@ -1,0 +1,16 @@
+# beacon
+beacon RX_SET
+
+# master
+set pid_process_denom = 1
+set small_angle = 180
+
+set mag_hardware = NONE
+set baro_hardware = NONE
+
+set dshot_bidir = OFF
+set motor_pwm_protocol = DSHOT600
+
+set yaw_motors_reversed = ON
+
+save

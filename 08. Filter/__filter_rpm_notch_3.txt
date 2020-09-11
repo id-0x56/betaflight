@@ -1,0 +1,7 @@
+# master
+set dyn_notch_width_percent = 0
+set dyn_notch_q = 120
+set dyn_notch_min_hz = 90
+set dyn_notch_max_hz = 650
+
+save

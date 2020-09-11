@@ -1,0 +1,5 @@
+feature -AIRMODE
+
+set motor_poles = 12
+
+save

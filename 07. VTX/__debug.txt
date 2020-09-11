@@ -1,0 +1,7 @@
+AKK	-	R225 F40	-	216
+AKK	-	R225 RSII	-	200
+AKK	-	Astro		-	200
+EWRF	-	Frog		-	216
+TX805	-	BCROW		-	200
+SucceX	-	MegaBee		-	TMP
+TBS	-	GT-R90		-	216

@@ -1,0 +1,29 @@
+profile 0
+
+set feedforward_transition = 0
+
+set iterm_relax = RPY
+set iterm_relax_type = SETPOINT
+
+set iterm_rotation = ON
+
+set p_roll = 50
+set i_roll = 70
+set d_roll = 40
+
+set p_pitch = 55
+set i_pitch = 70
+set d_pitch = 40
+
+set p_yaw = 50
+set i_yaw = 70
+set d_yaw = 0
+
+set d_min_roll = 0
+set d_min_pitch = 0
+set d_min_yaw = 0
+
+set d_min_boost_gain = 37
+set d_min_advance = 20
+
+save

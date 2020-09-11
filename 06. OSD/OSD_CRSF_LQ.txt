@@ -1,0 +1,52 @@
+set osd_warn_esc_fail = OFF
+set osd_warn_core_temp = OFF
+set osd_warn_rc_smoothing = OFF
+set osd_warn_batt_not_full = OFF
+
+set osd_warn_no_gps_rescue = OFF
+set osd_warn_gps_rescue_disabled = OFF
+
+set osd_warn_arming_disable = ON
+set osd_warn_visual_beeper = ON
+set osd_warn_fail_safe = ON
+
+set osd_warn_batt_warning = ON
+set osd_warn_batt_critical = ON
+
+set osd_warn_launch_control = ON
+set osd_warn_crash_flip = ON
+
+#
+
+set osd_rssi_alarm = 40
+set osd_cap_alarm = 1200
+
+#
+
+set osd_link_quality_pos = 14370
+set osd_throttle_pos = 14392
+set osd_vbat_pos = 14786
+set osd_current_pos = 14792
+set osd_mah_drawn_pos = 14800
+set osd_tim_1_pos = 14806
+
+#
+
+set osd_stat_max_spd = OFF
+
+set osd_stat_tim_1 = ON
+set osd_stat_tim_2 = ON
+
+set osd_stat_min_batt = ON
+set osd_stat_max_curr = ON
+set osd_stat_used_mah = ON
+
+set osd_stat_min_rssi = ON
+set osd_stat_min_link_quality = ON
+
+set osd_stat_bbox = ON
+set osd_stat_bb_no = ON
+
+set osd_stat_max_fft = ON
+
+save

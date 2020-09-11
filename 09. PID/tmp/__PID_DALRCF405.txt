@@ -1,0 +1,24 @@
+profile 0
+
+set feedforward_transition = 25
+
+set p_roll = 50
+set i_roll = 60
+set d_roll = 35
+
+set p_pitch = 55
+set i_pitch = 65
+set d_pitch = 40
+
+set p_yaw = 50
+set i_yaw = 120
+set d_yaw = 0
+
+set d_min_roll = 30
+set d_min_pitch = 35
+set d_min_yaw = 0
+
+set d_min_boost_gain = 30
+set d_min_advance = 50
+
+save
